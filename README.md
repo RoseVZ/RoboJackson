@@ -45,7 +45,7 @@ RoboJackson is an end-to-end framework that teaches humanoid robots expressive d
 
 ### Movements Evaluated
 - **APT1**: Simple hip shake
-- **APT2**: Full-body choreography
+- **APT2**: Upper-body choreography
 - **WALK**: Realistic locomotion
 
 ### Summary of Results
