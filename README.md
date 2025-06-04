@@ -2,7 +2,7 @@
 
 RoboJackson is an end-to-end framework that teaches humanoid robots expressive dance movements by learning from short real-world videos. This project combines 3D pose estimation, motion retargeting, and reinforcement learning to enable lifelike, whole-body robotic dancing—starting from YouTube Shorts.
 
-![Pipeline Overview](path/to/pipeline_image.png)
+![Pipeline Overview](PipelineRoboJackson.png)
 
 ---
 
